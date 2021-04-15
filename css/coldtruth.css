@@ -378,6 +378,8 @@ p {
   border-radius: 8px;
   background-color: #fff;
   box-shadow: 11px 0 28px 0 rgba(0, 0, 0, 0.15);
+  position: relative;
+  text-align: center;
 }
 
 .image-4 {

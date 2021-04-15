@@ -1,6 +1,11 @@
-# honeyswap-landing-page
+# ctc-landing-page
 
-honeyswap landing page built on css gird, flexbox and javascript
+Cold Truth Culture landing page built on css gird, flexbox and javascript. 
+CTC landing page is a refactored version of honeyswap landing page to provide consistent look and feel as part of branding efforts.
+
+Development site: [https://tonyschwebach.github.io/CTC-landing-page/](https://tonyschwebach.github.io/CTC-landing-page/)
+
+
 
 [google analytics - gtag.js](https://developers.google.com/analytics "analytics docs")
 

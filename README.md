@@ -6,7 +6,7 @@ CTC landing page is a refactored version of honeyswap landing page to provide co
 Development site: [https://tonyschwebach.github.io/CTC-landing-page/](https://tonyschwebach.github.io/CTC-landing-page/)
 
 
-
+removed  google analytics and tag manager
 [google analytics - gtag.js](https://developers.google.com/analytics "analytics docs")
 
 [google tag manager](https://developers.google.com/tag-manager/devguide "google tag manager docs")

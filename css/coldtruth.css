@@ -95,6 +95,8 @@ p {
 .right-block {
   position: relative;
   margin-bottom: 70px;
+  max-width: 45%;
+  
 
   /* width: 100%;
   height: 100%; */
@@ -106,7 +108,8 @@ p {
 }
 
 .hero-art{
-  width:150px;
+  width:25%;
+  margin: 10px;
 }
 /* .hero-art:hover{
   width:1500px;

@@ -89,14 +89,12 @@ p {
   min-width: 400px;
   margin-right: 80px;
   margin-bottom: 60px;
-
 }
 
 .right-block {
   position: relative;
   margin-bottom: 70px;
   max-width: 45%;
-  
 
   /* width: 100%;
   height: 100%; */
@@ -104,19 +102,21 @@ p {
   border-radius: 8px;
   background-color: #fff;
   box-shadow: 10px 5px 30px 0 rgba(231, 147, 37, 0.63);
-  text-align:center;
+  text-align: center;
 }
 
-.hero-art{
-  width:25%;
+.hero-art {
+  width: 25%;
   margin: 10px;
   padding: 5px;
-  transition: transform .2s; /* Animation */
+  transition: transform 0.2s; /* Animation */
   margin: 0 auto;
 }
-.hero-art:hover{
-  width:300px;
-  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+.hero-art:hover {
+  width: 300px;
+  transform: scale(
+    1.5
+  ); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 
 .flexbox {
@@ -391,6 +391,7 @@ p {
   padding-right: 30px;
   padding-left: 30px;
   min-width: 10vw;
+  text-align: center;
 }
 
 .icon-container {
@@ -538,7 +539,6 @@ p {
   max-width: 1247px;
   width: 100%;
   margin: auto;
-
   font-size: 1rem;
   text-decoration: none;
   text-align: center;
@@ -550,6 +550,12 @@ p {
   max-width: 1247px;
   min-width: 200px;
   margin: auto;
+}
+
+.partners-label {
+  color: #818181;
+  font-size: 16px;
+  font-weight: 400;
 }
 
 .partner_icon-container {
@@ -642,7 +648,6 @@ p {
 
 .icon-wrapper {
   min-width: 97px;
-  
 }
 
 .paragraph {
@@ -733,8 +738,8 @@ p {
 }
 
 .footer-grid-01 {
-  -ms-grid-columns: 2fr 1fr 1fr ;
-  grid-template-columns: 2fr 1fr 1fr ;
+  -ms-grid-columns: 2fr 1fr 1fr;
+  grid-template-columns: 2fr 1fr 1fr;
   -ms-grid-rows: auto;
   grid-template-rows: auto;
 }
@@ -1717,7 +1722,6 @@ p {
   }
 
   .footer-bottom {
-  
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;

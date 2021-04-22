@@ -110,10 +110,14 @@ p {
 .hero-art{
   width:25%;
   margin: 10px;
+  padding: 5px;
+  transition: transform .2s; /* Animation */
+  margin: 0 auto;
 }
-/* .hero-art:hover{
-  width:1500px;
-} */
+.hero-art:hover{
+  width:300px;
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
 
 .flexbox {
   display: -webkit-box;

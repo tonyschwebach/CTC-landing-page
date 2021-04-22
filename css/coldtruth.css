@@ -615,10 +615,12 @@ p {
 .text-container {
   margin-right: 30px;
   margin-left: 20px;
+  min-width: 60%;
 }
 
 .icon-wrapper {
   min-width: 97px;
+  
 }
 
 .paragraph {
@@ -1837,6 +1839,7 @@ p {
     -ms-flex-item-align: center;
     -ms-grid-row-align: center;
     align-self: center;
+    min-width: 70%;
   }
 
   .icon-wrapper {
